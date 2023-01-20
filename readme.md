@@ -10,9 +10,19 @@ The intelligent Safe as a Vault ( iSaaV ) software system is designed to track g
 
 ### Project Team
 + [Kym Pohl](mailto:kym.j.pohl@chobugroup.com) - project lead and primary developer
++ [Ansgar Killing](mailto:ansgar.m.killing@chobugroup.com) - project coordinator
 
 ### Primary Technologies
 + The Java Spring Boot microservices framework
 + The PostgreSQL DBMS
 + The Drools inference engine
 + The Angular web development framework
+
+### Installation And Getting Started
+###### ... TBD ...
+### _External_ Project Documentation
+###### ... TBD ...
+### Issue and Feature Tracking
+###### ... TBD ...
+### License
+###### ... TBD ...
